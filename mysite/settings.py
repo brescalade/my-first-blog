@@ -25,7 +25,7 @@ SECRET_KEY = 'hq_tq2=y6)v2j9sos&b=hzw$_k6=z9n4hk+$8$w6a#20#-=1h6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1' , '<brescalade.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1' , 'brescalade.pythonanywhere.com']
 
 
 
